@@ -35,3 +35,20 @@
 
 //  console.log(typeOf (myFunction));
 
+
+//++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack(primitive) ,heap(non - primitive)
+
+let myYoutubename = "himanshidubeydotcom"
+
+let anothername = myYoutubename
+anothername = "diyadubey"
+
+console.log(myYoutubename);
+console.log( anothername);
+
+let user = { 
+    email
+}
+
